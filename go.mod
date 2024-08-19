@@ -10,7 +10,7 @@ require (
 	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/testify v1.6.1
 	github.com/suapapa/go_eddystone v1.3.1
-	golang.org/x/sys v0.0.0-20200728102440-3e129f6d46b1
+	golang.org/x/sys v0.1.0
 	golang.org/x/tools v0.0.0-20200925191224-5d1fdd8fa346
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 )
